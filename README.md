@@ -13,7 +13,6 @@ curl --location 'https://api.openai.com/v1/fine_tuning/jobs' \
     "model": "gpt-3.5-turbo"
   }'
   
-  reminder
+REMINDER!
 
-Fine-tuning jobs cannot be created on an Explore plan. You can upgrade to a paid plan on your billing page: https://platform.openai.com/account/billing/overview", 
-  
+Fine-tuning jobs cannot be created on an Explore plan. You can upgrade to a paid plan on your billing page: https://platform.openai.com/account/billing/overview",   
